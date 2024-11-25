@@ -19,7 +19,7 @@ Source: Kaggle (https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
 - Total sales
 - Payment
 
-## Analysis
+## Data Analysis
 
 The dashboard contains key performance indicators (KPIs) such as total sales, the number of male and female customers, the product lines, and branch distribution. It also includes visualizations to showcase trends and patterns like:
 
@@ -30,6 +30,10 @@ The dashboard contains key performance indicators (KPIs) such as total sales, th
 - Payment method preferences.
 
 ## Exploratory Data Analysis
+- What product line or city contributes the most to revenue?
+- Are there any branches underperforming compared to others?
+- What are the differences in male and female purchase preferences?
+- How do payment preferences vary across product lines or customer demographics?
 
 
 ## Findings
