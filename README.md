@@ -19,6 +19,25 @@ Source: Kaggle (https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
 - Total sales
 - Payment
 
+## Tools and Technique used
+
+• Tools: Microsoft Excel , Power BI
+
+• Techniques
+
+**Data Cleaning:** Microsoft excel was used to remove duplicate, check blank space, change 
+the case and align columns.
+
+**Data Visualization:** Measure table was created ('Measures' = ROW("measures", 
+BLANK()) and under measure table some measures which help in the analysis was also 
+created.
+
+Female = CALCULATE(COUNTROWS('supermarket_sales - Sheet1'),'supermarket_sales - Sheet1'[Gender] = "Female")
+
+Male = CALCULATE(COUNTROWS('supermarket_sales - Sheet1'),'supermarket_sales - Sheet1'[Gender] = "Male")
+
+Total Sales = COUNT('supermarket_sales - Sheet1'[Invoice ID])
+
 ## Exploratory Data Analysis
 - What product line or city contributes the most to revenue?
 - Are there any branches underperforming compared to others?
