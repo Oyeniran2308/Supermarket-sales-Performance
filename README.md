@@ -21,7 +21,7 @@ Source: Kaggle (https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
 
 ## Tools and Technique used
 
-• Tools: Microsoft Excel , Power BI
+• Tools: Microsoft Excel , Power BI, Google sheet (Query).
 
 • Techniques
 
