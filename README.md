@@ -1,7 +1,25 @@
-# SALES PERFORMANCE
-Analyzing Sales performance for this supermarket to derive insight on new sales strategy
+# ANALYSIS ON SALES PERFORMANCE 
+## Project objective
+_The primary objective of this analysis is to evaluate the sales performance of the business across multiple dimensions, including gender, product lines, cities, branches, and payment methods._
+
+## Table of content
+## Datasets
+The growth of supermarkets in densely populated cities is increasing, and market competition is also high. The dataset used contains a historical sales data from a supermarket company recorded across three different branches over a three-month period.
+
+Source: Kaggle (https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
+
+**Key Fields:** 
+- Date (Month, day)
+- Branch
+- City
+- Gender
+- Product line
+- Unit Price
+- Cost of goods sold
+- Total sales
+- Payment
+
 ## Analysis
-As a data analyst, the objective was to assess the sales performance across different dimensions, such as gender, city, product lines, branches, and payment methods. The insights were visualized using a comprehensive sales performance dashboard for a structured presentation of the metrics.
 
 The dashboard contains key performance indicators (KPIs) such as total sales, the number of male and female customers, the product lines, and branch distribution. It also includes visualizations to showcase trends and patterns like:
 
