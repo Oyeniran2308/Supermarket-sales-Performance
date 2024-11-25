@@ -29,6 +29,9 @@ The dashboard contains key performance indicators (KPIs) such as total sales, th
 - Branch-specific sales performance.
 - Payment method preferences.
 
+## Exploratory Data Analysis
+
+
 ## Findings
 - Gender-Based Sales
 Male customers contributed slightly more (51.98%) to sales than female customers (48.02%).
