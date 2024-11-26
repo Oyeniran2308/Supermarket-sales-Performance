@@ -81,11 +81,6 @@ All six product lines show strong sales contributions, suggesting a well-diversi
 **Fig 4**
 ![sales destribution across product line](https://github.com/user-attachments/assets/c9cd3b2c-12d2-4ad2-9066-41470cc92065)
 
-- Gender-Based Sales
-Male customers contributed slightly more (51.98%) to sales than female customers (48.02%).
-Gender-based sales distribution across product lines shows a relatively balanced contribution but with slight variation in preferences.
-
-
 -Branch Performance
 Branch C leads in overall sales performance, followed by Branch B and Branch A.
 Home and Lifestyle performed best at Branch A, while Food and Beverages dominated in Branch C.
@@ -95,6 +90,15 @@ Customers used E-wallets (34.74%) and Credit Cards (34.06%) almost equally, whil
 
 -Monthly Sales Trend
 February has the highest sales compared to January and March. This suggests that specific marketing efforts or seasonal factors may drive higher sales during February.
+
+**Fig 6*
+![sales performance by month](https://github.com/user-attachments/assets/f53f4e6f-4ddd-4fcd-adba-4af93d6ea9d5)
+
+**- Gender-Based Sales**
+Male customers contributed slightly more (51.98%) to sales than female customers (48.02%).
+Gender-based sales distribution across product lines shows a relatively balanced contribution but with slight variation in preferences.
+
+![pie capstone](https://github.com/user-attachments/assets/3f18f552-fdf8-4570-a8fd-ec5297654c82)
 
 ## Recommendations
 **- Enhance Gender-Specific Marketing:**
