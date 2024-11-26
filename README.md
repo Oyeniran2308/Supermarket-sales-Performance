@@ -3,7 +3,7 @@ _The primary objective of this analysis is to evaluate the sales performance of 
 
 ## Table of content
 
-- [DATASETS](#dataset)
+- [DATASETS](#datasets)
 
 - [TOOLS AND TECHNIQUE USED](#tools-and-technique-used)
 
@@ -13,7 +13,7 @@ _The primary objective of this analysis is to evaluate the sales performance of 
 
 - [FINDINGS](#findings)
 
-- [RECOMMENDATION](#recommendation)
+- [RECOMMENDATIONS](#recommendations)
 
 - [CONCLUSION](#conclusion)
 
@@ -63,7 +63,7 @@ Total Sales = COUNT('supermarket_sales - Sheet1'[Invoice ID])
 - Analyze branch-level sales performance across different product lines to identify regional preferences and branch-specific strengths.
 - Assess total sales performance by customer gender to determine which gender drives higher revenue
 
-## Data Analysis
+## Analysis
 
 The dashboard features key performance indicators (KPIs) such as total sales, the number of male and female customers, product lines, and branch distribution. It also includes visualizations to highlight trends and patterns, including:
 
