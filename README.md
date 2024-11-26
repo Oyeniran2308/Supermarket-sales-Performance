@@ -50,9 +50,14 @@ Total Sales = COUNT('supermarket_sales - Sheet1'[Invoice ID])
 
 The dashboard contains key performance indicators (KPIs) such as total sales, the number of male and female customers, the product lines, and branch distribution. It also includes visualizations to showcase trends and patterns like:
 
-- Sales distribution by gender and city.
+**- City with the highest sales performance:** 
+
+Sales transaction was carried out in three cities Naypyitaw, Yangon and Mandalay. Our analysis which was visualize with a stacked column chart reveals that sales performace are excellent at the three cities.
+Customer with the highest sales: the dataset was queried using Google sheet, use the unique customer ID, we were able to get the customer wit the highest sales transaction.
+
+**- Product line contribution:** analysis carried out among 6 product line show that people engage more with food and beverages more than other line of business, using the clustered column chart we were able to see the sales performance across the six line of product, with food and beverages ranking higher and health and beauty ranking lower sales; the six line of product all rank far above average justifying there performance is okay but theirs a little diffrence in sales.
 - Monthly sales performance.
-- Product line contribution.
+
 - Branch-specific sales performance.
 - Payment method preferences.
 
