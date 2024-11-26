@@ -81,11 +81,14 @@ All six product lines show strong sales contributions, suggesting a well-diversi
 **Fig 4**
 ![sales destribution across product line](https://github.com/user-attachments/assets/c9cd3b2c-12d2-4ad2-9066-41470cc92065)
 
--Branch Performance
+**-Branch Performance**
 Branch C leads in overall sales performance, followed by Branch B and Branch A.
 Home and Lifestyle performed best at Branch A, while Food and Beverages dominated in Branch C.
 
--Payment Methods
+**-Fig 5**
+![branch](https://github.com/user-attachments/assets/6fbba75e-5f9c-47b6-8bbc-a6a72e226b37)
+
+**-Payment Methods**
 Customers used E-wallets (34.74%) and Credit Cards (34.06%) almost equally, while Cash (31.2%) is slightly less preferred.
 
 -Monthly Sales Trend
