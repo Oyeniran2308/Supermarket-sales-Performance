@@ -3,19 +3,19 @@ _The primary objective of this analysis is to evaluate the sales performance of 
 
 ## Table of content
 
-DATASETS
+- [DATASETS](#dataset)
 
-TOOLS AND TECHNIQUE USED
+- [TOOLS AND TECHNIQUE USED](#tools-and-technique-used)
 
-EXPLORATORY DATA ANALYSIS
+- [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
 
-ANALYSIS
+- [ANALYSIS](#analysis)
 
-FINDINGS
+- [FINDINGS](#findings)
 
-RECOMMENDATION
+- [RECOMMENDATION](#recommendation)
 
-CONCLUSION
+- [CONCLUSION](#conclusion)
 
 
 ## Datasets
