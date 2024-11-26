@@ -1,4 +1,4 @@
-# ANALYSIS ON SALES PERFORMANCE 
+![Sheet 1](https://github.com/user-attachments/assets/b565e35b-150b-4b9e-b743-a0239bd54f0c)# ANALYSIS ON SALES PERFORMANCE 
 ## Project objective
 _The primary objective of this analysis is to evaluate the sales performance of the business across multiple dimensions, including gender, product lines, cities, branches, and payment methods._
 
@@ -57,6 +57,11 @@ The dashboard contains key performance indicators (KPIs) such as total sales, th
 - Branch-specific sales performance.
 - Payment method preferences.
 
+**Fig 1**
+![Sheet 1](https://github.com/user-attachments/assets/eb0b68df-e34c-475b-84bb-3b0a205d04f8)
+
+**Fig 2**
+![sheet 2](https://github.com/user-attachments/assets/103c7d78-dc42-4867-83b4-3e84d107973e)
 
 
 ## Findings
