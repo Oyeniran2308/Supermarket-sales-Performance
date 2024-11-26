@@ -56,6 +56,15 @@ The dashboard contains key performance indicators (KPIs) such as total sales, th
 - Branch-specific sales performance.
 - Payment method preferences.
 
+
+ **KPIs**
+- Total sales : 1000
+- Total sales made by male: 499
+- Total sales made by female: 501
+- Products line: 6 (food and beverages, sport and travel, electronic accessories, fashion accessories, home and lifestyle, health and beauty)
+- Branch: 3 (A,B,C)
+- Customer : Member and Normal
+
 **Fig 1**
 ![Sheet 1](https://github.com/user-attachments/assets/eb0b68df-e34c-475b-84bb-3b0a205d04f8)
 
