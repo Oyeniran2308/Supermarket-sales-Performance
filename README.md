@@ -71,7 +71,7 @@ The dashboard features key performance indicators (KPIs) such as total sales, th
 
 Sales transactions were conducted in three cities: Naypyitaw, Yangon, and Mandalay. Our analysis, visualized with a stacked column chart, reveals that sales performance is excellent in all three cities.
 
-**- Customer with the Highest Sales:** We queried the dataset using Google Sheets and identified the customer with the highest sales transaction based on unique customer IDs.
+**- Customer with the Highest Sales:** We queried the dataset using Google Sheets and identified the customer with the highest sales transaction based on unique customer IDs. **Syntax :** _=QUERY('supermarket_sales - Sheet1'!A2:Q1001, "SELECT A, MAX(M) GROUP BY A ORDER BY MAX(M) DESC LIMIT 1", 1)_
 
 **- Product Line Contribution:** An analysis of six product lines shows that customers engage more with the food and beverages category compared to other lines of business. Using a clustered column chart, we observed the sales performance across the six product lines, with food and beverages ranking the highest and health and beauty ranking the lowest. Although all six product lines performed above average, there were slight differences in sales.
 
@@ -100,7 +100,7 @@ Sales performance is similar across Naypyitaw, Yangon City, and Mandalay, with n
 **Fig 3**
 ![sales performance by city](https://github.com/user-attachments/assets/70e2dd50-18c0-4db4-9ca4-8839f3cf45a1)
 
-**- Customer with the highest sales order**
+**- Customer with the highest sales order:** Using google sheet to query highest customer sales the return result of our query (=QUERY('supermarket_sales - Sheet1'!A2:Q1001, "SELECT A, MAX(M) GROUP BY A ORDER BY MAX(M) DESC LIMIT 1", 1)) shows that customer with invoice ID 784-21-9238 has the highest sales of 1042.65 buying fashion accessories while invoice ID 784-21-9238 has the lowest sales of 10.6785 sales. 
 
 **-Sales by Product Line**
 
