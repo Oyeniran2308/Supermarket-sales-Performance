@@ -64,12 +64,14 @@ The dashboard contains key performance indicators (KPIs) such as total sales, th
 
 
 ## Findings
-- Gender-Based Sales
-Male customers contributed slightly more (51.98%) to sales than female customers (48.02%).
-Gender-based sales distribution across product lines shows a relatively balanced contribution but with slight variation in preferences.
 
 - Sales by City
 Sales performance is similar across Naypyitaw, Yangon City, and Mandalay, with no significant outlier indicating all cities contributed almost equally.
+
+
+- Gender-Based Sales
+Male customers contributed slightly more (51.98%) to sales than female customers (48.02%).
+Gender-based sales distribution across product lines shows a relatively balanced contribution but with slight variation in preferences.
 
 -Sales by Product Line
 Food and Beverages lead in sales, closely followed by Sports and Travel and Electronic Accessories.
