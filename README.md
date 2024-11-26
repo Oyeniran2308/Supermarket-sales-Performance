@@ -56,7 +56,10 @@ Sales transaction was carried out in three cities Naypyitaw, Yangon and Mandalay
 Customer with the highest sales: the dataset was queried using Google sheet, use the unique customer ID, we were able to get the customer wit the highest sales transaction.
 
 **- Product line contribution:** analysis carried out among 6 product line show that people engage more with food and beverages more than other line of business, using the clustered column chart we were able to see the sales performance across the six line of product, with food and beverages ranking higher and health and beauty ranking lower sales; the six line of product all rank far above average justifying there performance is okay but theirs a little diffrence in sales.
-- Monthly sales performance.
+
+**- Customer with the highest sales:** google query was used to get the customer with the highest sales.
+
+**- Monthly sales performance:** the analysis carried out to check the monthly sales performance using a dough chart  to identify sales performance
 
 - Branch-specific sales performance.
 - Payment method preferences.
