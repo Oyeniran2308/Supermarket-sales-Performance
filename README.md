@@ -65,17 +65,26 @@ The dashboard contains key performance indicators (KPIs) such as total sales, th
 
 ## Findings
 
-- Sales by City
-Sales performance is similar across Naypyitaw, Yangon City, and Mandalay, with no significant outlier indicating all cities contributed almost equally.
+**- Sales by City**
+_Sales performance is similar across Naypyitaw, Yangon City, and Mandalay, with no significant outlier indicating all cities contributed almost equally._
 
+**Fig 3**
+![sales performance by city](https://github.com/user-attachments/assets/70e2dd50-18c0-4db4-9ca4-8839f3cf45a1)
+
+**- Customer with the highest sales order**
+
+**-Sales by Product Line**
+
+_Food and Beverages lead in sales, closely followed by Sports and Travel and Electronic Accessories.
+All six product lines show strong sales contributions, suggesting a well-diversified revenue stream._
+
+**Fig 4**
+![sales destribution across product line](https://github.com/user-attachments/assets/c9cd3b2c-12d2-4ad2-9066-41470cc92065)
 
 - Gender-Based Sales
 Male customers contributed slightly more (51.98%) to sales than female customers (48.02%).
 Gender-based sales distribution across product lines shows a relatively balanced contribution but with slight variation in preferences.
 
--Sales by Product Line
-Food and Beverages lead in sales, closely followed by Sports and Travel and Electronic Accessories.
-All six product lines show strong sales contributions, suggesting a well-diversified revenue stream.
 
 -Branch Performance
 Branch C leads in overall sales performance, followed by Branch B and Branch A.
