@@ -4,7 +4,19 @@ _The primary objective of this analysis is to evaluate the sales performance of 
 ## Table of content
 
 DATASETS
+
 TOOLS AND TECHNIQUE USED
+
+EXPLORATORY DATA ANALYSIS
+
+ANALYSIS
+
+FINDINGS
+
+RECOMMENDATION
+
+CONCLUSION
+
 
 ## Datasets
 The growth of supermarkets in densely populated cities is increasing, and market competition is also high. The dataset used contains a historical sales data from a supermarket company recorded across three different branches over a three-month period.
@@ -131,7 +143,7 @@ Gender-based sales distribution across product lines shows a relatively balanced
 Design targeted campaigns for both male and female customers focusing on their slight product line preferences.
 Use loyalty programs to attract male customers, given their slightly higher spending.
 
-**- Regional Sales Strategy:**
+**- Regional (city) Sales Strategy:**
 
 Despite cities contributing equally, consider tailoring marketing campaigns to the specific culture and demands of each city to maximize engagement.
 
