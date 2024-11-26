@@ -1,4 +1,3 @@
-![Sheet 1](https://github.com/user-attachments/assets/b565e35b-150b-4b9e-b743-a0239bd54f0c)# ANALYSIS ON SALES PERFORMANCE 
 ## Project objective
 _The primary objective of this analysis is to evaluate the sales performance of the business across multiple dimensions, including gender, product lines, cities, branches, and payment methods._
 
