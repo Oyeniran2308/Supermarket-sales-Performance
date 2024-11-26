@@ -66,7 +66,7 @@ The dashboard contains key performance indicators (KPIs) such as total sales, th
 ## Findings
 
 **- Sales by City**
-_Sales performance is similar across Naypyitaw, Yangon City, and Mandalay, with no significant outlier indicating all cities contributed almost equally._
+Sales performance is similar across Naypyitaw, Yangon City, and Mandalay, with no significant outlier indicating all cities contributed almost equally.
 
 **Fig 3**
 ![sales performance by city](https://github.com/user-attachments/assets/70e2dd50-18c0-4db4-9ca4-8839f3cf45a1)
@@ -91,10 +91,15 @@ Home and Lifestyle performed best at Branch A, while Food and Beverages dominate
 **-Payment Methods**
 Customers used E-wallets (34.74%) and Credit Cards (34.06%) almost equally, while Cash (31.2%) is slightly less preferred.
 
--Monthly Sales Trend
+**-Fig 6**
+![payment](https://github.com/user-attachments/assets/74085526-79be-4283-99d9-c2bb6db9eb17)
+
+
+**-Monthly Sales Trend**
+
 February has the highest sales compared to January and March. This suggests that specific marketing efforts or seasonal factors may drive higher sales during February.
 
-**Fig 6*
+**Fig 7**
 ![sales performance by month](https://github.com/user-attachments/assets/f53f4e6f-4ddd-4fcd-adba-4af93d6ea9d5)
 
 **- Gender-Based Sales**
