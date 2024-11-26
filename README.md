@@ -38,11 +38,14 @@ Male = CALCULATE(COUNTROWS('supermarket_sales - Sheet1'),'supermarket_sales - Sh
 
 Total Sales = COUNT('supermarket_sales - Sheet1'[Invoice ID])
 
-## Exploratory Data Analysis
-- What product line or city contributes the most to revenue?
-- Are there any branches underperforming compared to others?
-- What are the differences in male and female purchase preferences?
-- How do payment preferences vary across product lines or customer demographics?
+## Exploratory Data Analysiswhich month generates the highest revenue
+
+- Which city has the highest sales performance contribution
+- Identify the customer responsible for the highest singles sales
+- which product line generate the most revenue and how significant is its compared to others
+- Which product lines are more popular among male and female customers, and how does this affect overall sales performance?
+- Analyze branch-level sales performance across different product lines to identify regional preferences and branch-specific strengths.
+- Assess total sales performance by customer gender to determine which gender drives higher revenue
 
 ## Data Analysis
 
