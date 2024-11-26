@@ -2,6 +2,10 @@
 _The primary objective of this analysis is to evaluate the sales performance of the business across multiple dimensions, including gender, product lines, cities, branches, and payment methods._
 
 ## Table of content
+
+DATASETS
+TOOLS AND TECHNIQUE USED
+
 ## Datasets
 The growth of supermarkets in densely populated cities is increasing, and market competition is also high. The dataset used contains a historical sales data from a supermarket company recorded across three different branches over a three-month period.
 
@@ -37,8 +41,9 @@ Male = CALCULATE(COUNTROWS('supermarket_sales - Sheet1'),'supermarket_sales - Sh
 
 Total Sales = COUNT('supermarket_sales - Sheet1'[Invoice ID])
 
-## Exploratory Data Analysiswhich month generates the highest revenue
+## Exploratory Data Analysis
 
+- which month generates the highest revenue
 - Which city has the highest sales performance contribution
 - Identify the customer responsible for the highest singles sales
 - which product line generate the most revenue and how significant is its compared to others
@@ -48,22 +53,17 @@ Total Sales = COUNT('supermarket_sales - Sheet1'[Invoice ID])
 
 ## Data Analysis
 
-The dashboard contains key performance indicators (KPIs) such as total sales, the number of male and female customers, the product lines, and branch distribution. It also includes visualizations to showcase trends and patterns like:
+The dashboard features key performance indicators (KPIs) such as total sales, the number of male and female customers, product lines, and branch distribution. It also includes visualizations to highlight trends and patterns, including:
 
-**- City with the highest sales performance:** 
+**- City with the Highest Sales Performance:** 
 
-Sales transaction was carried out in three cities Naypyitaw, Yangon and Mandalay. Our analysis which was visualize with a stacked column chart reveals that sales performace are excellent at the three cities.
-Customer with the highest sales: the dataset was queried using Google sheet, use the unique customer ID, we were able to get the customer wit the highest sales transaction.
+Sales transactions were conducted in three cities: Naypyitaw, Yangon, and Mandalay. Our analysis, visualized with a stacked column chart, reveals that sales performance is excellent in all three cities.
 
-**- Product line contribution:** analysis carried out among 6 product line show that people engage more with food and beverages more than other line of business, using the clustered column chart we were able to see the sales performance across the six line of product, with food and beverages ranking higher and health and beauty ranking lower sales; the six line of product all rank far above average justifying there performance is okay but theirs a little diffrence in sales.
+**- Customer with the Highest Sales:** We queried the dataset using Google Sheets and identified the customer with the highest sales transaction based on unique customer IDs.
 
-**- Customer with the highest sales:** google query was used to get the customer with the highest sales.
+**- Product Line Contribution:** An analysis of six product lines shows that customers engage more with the food and beverages category compared to other lines of business. Using a clustered column chart, we observed the sales performance across the six product lines, with food and beverages ranking the highest and health and beauty ranking the lowest. Although all six product lines performed above average, there were slight differences in sales.
 
-**- Monthly sales performance:** the analysis carried out to check the monthly sales performance using a dough chart  to identify sales performance
-
-- Branch-specific sales performance.
-- Payment method preferences.
-
+**- Monthly Sales Performance:** An analysis of monthly sales performance using a doughnut chart revealed that January had the highest sales, totaling approximately 120,000.
 
  **KPIs**
 - Total sales : 1000
